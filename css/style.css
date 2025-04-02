@@ -23,4 +23,5 @@ body {
   box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
   padding: 2rem;
   color: #fdfdfd;
+  border-radius: 1rem;
 }
