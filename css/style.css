@@ -35,4 +35,5 @@ body {
 }
 .form input {
   padding: 0.8rem;
+  border: none;
 }
