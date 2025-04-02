@@ -39,3 +39,6 @@ body {
   flex: 1;
   border-radius: 4px;
 }
+.form button {
+  padding: 0.8rem;
+}
