@@ -41,4 +41,5 @@ body {
 }
 .form button {
   padding: 0.8rem;
+  min-width: 50px;
 }
