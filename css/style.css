@@ -33,3 +33,6 @@ body {
 .form-input-container {
   display: flex;
 }
+.form input {
+  padding: 0.8rem;
+}
