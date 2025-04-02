@@ -48,3 +48,7 @@ body {
   border-radius: 4px;
   cursor: pointer;
 }
+/* Clima */
+#weather-data {
+  border-top: 1px solid #fff;
+}
