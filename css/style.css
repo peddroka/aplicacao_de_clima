@@ -68,7 +68,7 @@ body {
   margin: 0.6rem;
 }
 #country {
-  height: 15px;
+  height: 25px;
 }
 #description-container {
   display: flex;
@@ -85,4 +85,13 @@ body {
   border-right: 1px solid #fff;
   margin: 0.6rem;
   padding: 0.6rem;
+}
+#temperature {
+  font-size: 1.5rem; /* Tamanho maior para a temperatura */
+  font-weight: bold; /* Texto em negrito */
+  margin: 1rem 0; /* Espaçamento */
+}
+
+#temperature span {
+  margin: 0; /* Remove a margem padrão que você definiu para spans em geral */
 }
