@@ -57,4 +57,32 @@ body {
 }
 #weather-data h2 {
   display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 0.6rem;
+}
+#weather-data h2 i {
+  font-size: 1rem;
+}
+#weather-data span {
+  margin: 0.6rem;
+}
+#country {
+  height: 15px;
+}
+#description-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0.6rem 0;
+}
+#details-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+#details-container #umidity {
+  border-right: 1px solid #fff;
+  margin: 0.6rem;
+  padding: 0.6rem;
 }
