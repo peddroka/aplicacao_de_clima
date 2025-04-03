@@ -1,4 +1,7 @@
 # aplicacao_de_clima
+ 
+🔗 **Veja Online:** [Acesse aqui](https://peddroka.github.io/aplicacao_de_clima/)
+ 
  Primeiro projeto do meu portfólio
 Este foi meu primeiro projeto desenvolvendo com HTML, CSS e JavaScript! 
 
